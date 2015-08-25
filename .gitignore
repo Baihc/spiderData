@@ -1,0 +1,5 @@
+ .gitignore
+ .scrapy
+ .settings
+ .project
+ .pydevproject
