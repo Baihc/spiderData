@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//esfang/items.py=utf-8
+encoding//esfang/json2db.py=utf-8
+encoding//esfang/pipelines.py=utf-8
+encoding//esfang/settings.py=utf-8
+encoding//esfang/spiders/geoCoding.py=utf-8
+encoding//esfang/spiders/json2csv.py=utf-8
+encoding//esfang/spiders/spiderBaobeihuijia.py=utf-8
+encoding//esfang/spiders/spiderFang.py=utf-8
+encoding//esfang/spiders/spiderFangDetail.py=utf-8
+encoding//esfang/spiders/unbd.py=utf8
